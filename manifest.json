@@ -4,7 +4,7 @@
   "version": "1.0",
   "manifest_version": 3,
   "action": {
-    "default_popup": "hello.html",
+    "default_popup": "yt_shorts_remover.html",
     "default_icon": "youtube_shorts_remover_icon.png"
   }
 }
