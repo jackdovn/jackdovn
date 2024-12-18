@@ -5,6 +5,6 @@
   "manifest_version": 3,
   "action": {
     "default_popup": "yt_shorts_remover.html",
-    "default_icon": "youtube_shorts_remover_icon.png"
+    "default_icon": "youtube_shorts_remover_icon copy.png"
   }
 }
